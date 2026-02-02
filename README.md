@@ -1,11 +1,56 @@
-# 📊 Workforce & Salary Dashboard (Power BI)
+# 📊 Workforce & Salary Analysis Dashboard (Power BI)
 
-An interactive Power BI dashboard analyzing workforce distribution, salary expenditure, bonuses, taxes, and salary trends across departments.
+## 📌 Project Overview
+This project is my **first Power BI dashboard**, created to analyze workforce and salary-related data across multiple departments.  
+The dashboard focuses on presenting clear, interactive, and easy-to-understand insights for workforce analytics.
 
-## Tools
-- Power BI  
-- Data Cleaning  
-- Basic DAX  
+---
 
-## Author
-**Hemavathi** – AI & Data Science Student
+## 🎯 Objective
+The main objective of this project is to:
+- Analyze employee distribution across departments  
+- Understand salary expenditure and trends over time  
+- Compare bonuses, taxes, and average salaries by department  
+
+---
+
+## 🛠 Tools & Technologies
+- **Power BI**
+- **Data Cleaning & Transformation**
+- **Basic DAX Measures**
+- **Data Visualization & Dashboard Design**
+
+---
+
+## 📊 Dashboard Features
+- Total Employees overview  
+- Total Departments count  
+- Total Salary Expenditure  
+- Employees per Department (Bar Chart)  
+- Bonus per Department (Pie Chart)  
+- Tax per Department (Bar Chart)  
+- Salary Trend Over Time (Line Chart)  
+- Average Salary per Department (Comparison Chart)  
+
+---
+
+## 📈 Key Insights
+- Workforce is fairly evenly distributed across departments  
+- Salary expenditure shows a stable trend over time  
+- Bonuses and taxes vary slightly across departments  
+- Average salary comparison highlights differences among departments  
+
+---
+
+## 📁 Repository Structure
+- `Dashboard.pbix` – Power BI dashboard file  
+- `dataset.csv` / `dataset.xlsx` – Source data *(if included)*  
+- `screenshots/` – Dashboard preview images  
+
+---
+
+## 📸 Dashboard Preview
+Add screenshots of the dashboard inside the `screenshots` folder and display them here:
+
+```markdown
+![Dashboard Preview](screenshots/dashboard.png)
