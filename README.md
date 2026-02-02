@@ -53,4 +53,4 @@ The main objective of this project is to:
 Add screenshots of the dashboard inside the `screenshots` folder and display them here:
 
 ```markdown
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](dashboard.png)
