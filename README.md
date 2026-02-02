@@ -43,14 +43,10 @@ The main objective of this project is to:
 ---
 
 ## 📁 Repository Structure
-- `Dashboard.pbix` – Power BI dashboard file  
-- `dataset.csv` / `dataset.xlsx` – Source data *(if included)*  
-- `screenshots/` – Dashboard preview images  
+- `Dashboard.pbix` – Power BI dashboard file    
+- `screenshots – Dashboard preview image  
 
----
 
-## 📸 Dashboard Preview
-Add screenshots of the dashboard inside the `screenshots` folder and display them here:
 
 ```markdown
 ![Dashboard Preview](dashboard.png)
